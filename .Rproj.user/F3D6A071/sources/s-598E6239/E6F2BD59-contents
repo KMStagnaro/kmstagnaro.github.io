@@ -1,0 +1,15 @@
+---
+title: "Kyle Stagnaro"
+image: "Headshot1.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/kyle-stagnaro-23a9a7139/"
+  - label: Twitter
+    url: "https://twitter.com/StagnaroKyle"
+  - label: Email
+    url: "mailto:stagn011@umn.edu"
+output:
+  postcards::jolla
+---
+ 
+I am a Masters student in the Psychological Foundations of Education program at the University of Minnesota, Twin Cities. My research interests include reading comprehension assessment and inferencing.
