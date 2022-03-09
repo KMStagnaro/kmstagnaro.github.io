@@ -12,4 +12,11 @@ navbar:
       href: about.html
     - text: "Publications"
       href: publications.html
+  left:
+    - label: LinkedIn
+      url: "https://www.linkedin.com/in/kyle-stagnaro-23a9a7139/"
+    - label: Twitter
+      url: "https://twitter.com/StagnaroKyle"
+    - label: Email
+      url: "mailto:stagn011@umn.edu"
 output: postcards::jolla

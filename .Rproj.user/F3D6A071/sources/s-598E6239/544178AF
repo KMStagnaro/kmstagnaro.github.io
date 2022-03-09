@@ -3,7 +3,7 @@
     "path": "~/GitHub/kmstagnaro.github.io/_site.yml",
     "project_path": "_site.yml",
     "type": "yaml",
-    "hash": "1318515767",
+    "hash": "121351814",
     "contents": "",
     "dirty": false,
     "created": 1646854770002.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "15,0",
+        "cursorPosition": "15,11",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1646855032,
+    "lastKnownWriteTime": 1646855253,
     "encoding": "ISO8859-1",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1646855032601,
+    "last_content_update": 1646855253993,
     "read_only": false,
     "read_only_alternatives": []
 }
